@@ -2,3 +2,10 @@
     padding: 0;
     margin: 0;
 }
+.container{
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center;
+    background-color: rgb(10, 10, 10);
+    background-blend-mode:soft-light;
+}
