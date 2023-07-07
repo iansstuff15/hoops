@@ -111,8 +111,11 @@ export default function Page() {
                     }}
                     closable={false}
                 >
+                    <br />
                     <h5>Old Password</h5>
                     <Input />
+                    <br />
+                    <br />
                     <h5>New Password</h5>
                     <Input />
                 </Modal>

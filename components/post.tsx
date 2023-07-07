@@ -59,7 +59,7 @@ const AppPostComponent = () => {
                 <br />
                 <Image
                     height={400}
-                    style={{ objectFit: 'cover', width: '125%' }}
+                    style={{ objectFit: 'cover', width: '100%' }}
                     alt="example"
                     src="https://gw.alipayobjects.com/zos/rmsportal/JiqGstEfoWAOHiTxclqi.png"
                 />
